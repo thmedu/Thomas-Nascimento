@@ -1,6 +1,10 @@
 ![Frontend (2)](https://github.com/user-attachments/assets/3c90cef5-3d49-4720-a3d9-285c78f6d77c)
 
 
+Sure! Here's the updated README with your online CV included.
+
+---
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="50" height="50" /> Hello! Welcome to my GitHub!
 
 My name is **Thomas**, and I am a frontend developer. I am on a continuous learning journey, exploring technologies such as AWS, HTML, CSS, JavaScript (React, Node.js), Python, and PHP.
@@ -30,4 +34,7 @@ I focus on UX/UI, always striving to enhance the user experience and contribute 
 Feel free to reach out to me:
 
 ✉️ **Email**: thomas_webdev@outlook.com  
-📞 **Phone**: (19) 9 9904-2072 
+📞 **Phone**: (19) 9 9904-2072  
+📄 **Online CV**: [View my CV](https://www.notion.so/Thomas-Eduardo-Frontend-1170e2a4da684c9ba4efcdf8236b9405?pvs=4)
+
+
